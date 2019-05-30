@@ -5,9 +5,8 @@
 }
 
 .column div img{
-  width: 100%;
-  float: left;
-  padding: 8px;
+  width: auto;
+  height: 200px;
 }
 
 .animals {
