@@ -25,3 +25,19 @@ div h3 {
   font-size: 24px;
   font-weight: bold;
 }
+
+@media screen and (max-width: 480px) {
+  .column {
+    width: 100%;
+    float: none;
+  }
+  body {
+    background-color: white;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  body {
+    background-color: #FF00FF;
+  }
+}
